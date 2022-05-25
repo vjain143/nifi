@@ -24,7 +24,7 @@
     <description>NiFi: Framework Bundle</description>
     <properties>
         <spring.version>4.3.19.RELEASE</spring.version>
-        <spring.security.version>4.2.13.RELEASE</spring.security.version>
+        <spring.security.version>5.5.7</spring.security.version>
     </properties>
     <modules>
         <module>nifi-framework</module>
