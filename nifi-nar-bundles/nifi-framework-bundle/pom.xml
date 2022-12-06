@@ -642,7 +642,7 @@
             <dependency>
                 <groupId>commons-net</groupId>
                 <artifactId>commons-net</artifactId>
-                <version>3.6</version>
+                <version>3.9.0</version>
             </dependency>
             <dependency>
                 <!-- Explicitly force Netty to 3.7.1 due to CVE-2014-0193 -->
